@@ -1,7 +1,7 @@
-<a href="https://wangxin.io/about">
+<a href="https://gitee.com/easyj-projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangliang181230&show_icons=true" />
 </a>
-<a href="https://wangxin.io/about">
+<a href="https://gitee.com/easyj-projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangliang181230&hide=html,thrift" />
 </a>
 
