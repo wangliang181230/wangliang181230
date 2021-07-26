@@ -1,5 +1,4 @@
-### 你好👋，我的名字叫王良（[Gitee](https://gitee.com/wangliang181230) | [Github](https://github.com/wangliang181230)）。是一名小小的Java架构师😄。
-### 最近，我创建了一个 EasyJ开源社区（[Gitee](https://gitee.com/easyj-projects) | [Github](https://github.com/easyj-projects)），目前里面包含了一些即插即用的功能，后面还将添加一些中间件，供大家使用，欢迎大家来访。
+### 你好👋，我的名字叫王良（[Gitee](https://gitee.com/wangliang181230) | [Github](https://github.com/wangliang181230)）。是一名小小的Java架构师😄。最近，我创建了一个 EasyJ开源社区（[Gitee](https://gitee.com/easyj-projects) | [Github](https://github.com/easyj-projects)），目前里面包含了一些即插即用的功能，后面还将添加一些中间件，供大家使用，欢迎大家来访。
 
 <a href="https://gitee.com/easyj-projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangliang181230&show_icons=true" />
