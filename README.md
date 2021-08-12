@@ -3,7 +3,7 @@
 <a href="https://github.com/seata/seata/pulls?q=is%3Aopen+is%3Apr+author%3Awangliang181230+sort%3Aupdated-desc">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangliang181230&show_icons=true" />
 </a>
-<a href="#">
+<a href="javascript:void(0);" style="cursor: default;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangliang181230&hide=html,thrift" />
 </a>
 
