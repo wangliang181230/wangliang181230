@@ -14,6 +14,6 @@
 
 3. [MaxKB](https://github.com/1Panel-dev/MaxKB)：智能体平台产品
 
-   这几年AI/智能体发展迅速，开源智能体项目也层出不穷，国内目前用的比较多的主要有 [MaxKB](https://github.com/1Panel-dev/MaxKB) 和 [Dify](https://github.com/langgenius/dify)。
+   这几年AI/智能体发展迅速，开源智能体项目也层出不穷，国内用的比较多的主要有 [MaxKB](https://github.com/1Panel-dev/MaxKB) 和 [Dify](https://github.com/langgenius/dify)。
 
-   因为MaxKB容易上手，所以作为MaxKB的用户，在使用过程中总是碰到一些问题，包括碰到BUG、功能缺失或不完善、性能问题等，所以决定参与贡献一些源代码，来完善这款产品，使其更完善更易用。
+   因为MaxKB容易上手，所以我们团队选择了MaxKB。作为MaxKB的用户，在使用过程中总是碰到一些问题，包括BUG、功能缺失或不完善、性能问题等，所以决定参与贡献一些源代码，来完善这款产品，使其更完善更易用。
