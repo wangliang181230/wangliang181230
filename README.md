@@ -1,4 +1,4 @@
-### 你好👋，我的名字叫王良（[Gitee](https://gitee.com/wangliang181230) | [Github](https://github.com/wangliang181230)），是一名小小的Java架构师😄。
+### 你好👋，我的名字叫王良（[Gitee](https://gitee.com/wangliang181230) | [Github](https://github.com/wangliang181230)），是一名Java架构师。😄
 
 #### 1. 我自己的项目
 目前正在维护自己创建的 EasyJ开源社区（[Gitee](https://gitee.com/easyj-projects) | [Github](https://github.com/easyj-projects)），社区提供一些即插即用的功能、Maven插件，欢迎大家加入该社区，进行沟通交流。
