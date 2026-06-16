@@ -6,7 +6,7 @@
 #### 2. 参与贡献和维护的开源项目
 1. [阿里分布式事务中间件 Seata](https://github.com/apache/incubator-seata)
 
-   几年前加入阿里分布式事务中间件 Seata 开源项目团队，贡献过很长一段时间的源码，对分布式事务还是颇有研究，欢迎来探讨研究。
+   几年前加入阿里分布式事务中间件 Seata 开源项目核心开发团队，成为Committer，贡献过很长一段时间的源码，对分布式事务还是颇有研究，欢迎来探讨研究。
 
 2. [Dev-Sidecar](https://github.com/docmirror/dev-sidecar)
 
