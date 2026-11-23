@@ -1,9 +1,6 @@
 ### 你好👋，我的名字叫王良（[Gitee](https://gitee.com/wangliang181230) | [Github](https://github.com/wangliang181230)），是一名Java架构师。😄
 
-#### 1. 我自己的项目
-目前正在维护自己创建的 EasyJ开源社区（[Gitee](https://gitee.com/easyj-projects) | [Github](https://github.com/easyj-projects)），社区提供一些即插即用的功能、Maven插件，欢迎大家加入该社区，进行沟通交流。
-
-#### 2. 参与贡献和维护的开源项目
+#### 1. 参与贡献和维护的开源项目
 1. [MaxKB（Fock的仓库）](https://github.com/wangliang181230/MaxKB)：智能体平台产品
 
    这几年 AI、Agent（智能体） 发展迅速，开源智能体项目也层出不穷，国内用的比较多的主要有 [MaxKB](https://github.com/1Panel-dev/MaxKB) 和 [Dify](https://github.com/langgenius/dify)。
@@ -19,3 +16,6 @@
 4. [Dev-Sidecar](https://github.com/docmirror/dev-sidecar)
 
    国内github用户的福音，其他不方便透露，自己来挖掘它的作用吧。😄
+
+#### 2. 我自己的小项目（近期已不再维护）
+目前正在维护自己创建的 EasyJ开源社区（[Gitee](https://gitee.com/easyj-projects) | [Github](https://github.com/easyj-projects)），社区提供一些即插即用的功能、Maven插件，欢迎大家加入该社区，进行沟通交流。
